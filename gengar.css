@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(142, 0, 185);
+}
+mark{
+    background-color: rgb(81, 0, 92);
+    padding: 7px;
+}
+p{
+    font-family: 
+}
+h1{
+    font-family: ;
+    text-align: center;
+}
+button{
+    background-color: red;
+    align-self: center;
+    font-family: ;
+    color: azure;
+    border-color: red;
+}
